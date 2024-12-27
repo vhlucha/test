@@ -1,4 +1,5 @@
 def vypis_pozdrav(pozdrav: str) -> None:
     print(pozdrav)
 
-vypis_pozdrav(pozdrav="ahoj")
+if __name__=="__main__":
+    vypis_pozdrav(pozdrav="ahoj")
