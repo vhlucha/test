@@ -9,3 +9,8 @@ if __name__=="__main__":
 
 print("hi")
 
+def louceni(louceni):
+    print(louceni)
+
+louceni("bye")
+
